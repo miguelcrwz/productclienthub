@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductClientHub.API/ProductClientHub.API.csproj" />
+  <Project Path="ProductClientHub.Communication/ProductClientHub.Communication.csproj" />
+  <Project Path="ProductClientHub.Exception/ProductClientHub.Exception.csproj" />
+</Solution>
